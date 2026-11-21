@@ -1,4 +1,4 @@
-# Practical 5 – Classification Models Implementation & Comparative Analysis
+# Practical 4 – Classification Models Implementation & Comparative Analysis
 
 **Student:** Ritesh Gavhane | **PRN:** 202401100082 | **Division:** B | **Batch:** AIML-4 | **Roll No.:** 02
 **Course:** TY B.Tech. – Artificial Intelligence and Machine Learning
